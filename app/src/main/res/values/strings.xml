@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ReversiGame</string>
+    <string name="title_activity_pref">Pref</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+
+    <!--    <string name="pref_cat_general">設定</string>-->
+    <!--    <string name="pref_show_hints">ヒントを表示</string>-->
+    <!--    <string name="pref_show_hints_on">表示する</string>-->
+    <!--    <string name="pref_show_hints_off">表示しない</string>-->
+    <!--    <string name="pref_show_hints_default">true</string>-->
+    <!--    <string name="pref_player1_default">0</string>-->
+    <!--    <string name="pref_player1_name_default">Black</string>-->
+
+    <!--    <string name="pref_player2_default">1</string>-->
+    <!--    <string name="pref_player2_name_default">White</string>-->
+
+    <string name="mnu_exit">閉じる</string>
+    <string name="mnu_pref">設定</string>
+    <string name="mnu_init">最初から始める</string>
+
+    <string name="pref_cat_general">Hint</string>
+    <string name="pref_show_hints">ヒントを表示</string>
+    <string name="pref_show_hints_on">表示する</string>
+    <string name="pref_show_hints_off">表示しない</string>
+    <string name="pref_show_hints_default">true</string>
+
+    <string name="pref_cat_player1">Player 1</string>
+    <string name="pref_player1">Player 1</string>
+    <string name="pref_player1_default">0</string>
+    <string name="pref_player1_name">Name (Max. 7 chars)</string>
+    <string name="pref_player1_name_default">Black</string>
+
+    <string name="pref_cat_player2">Player 2</string>
+    <string name="pref_player2">Player 2</string>
+    <string name="pref_player2_default">1</string>
+    <string name="pref_player2_name">Name (Max. 7 chars)</string>
+    <string name="pref_player2_name_default">White</string>
+
+    <!--クイズ画面-->
+    <string name="question_label">問題文</string>
+    <string name="count_label">Q%d</string>
+    <string name="answer_btn">選択肢</string>
+
+    <!-- 結果画面 -->
+    <string name="result_title">結果</string>
+    <string name="result_score">%d / 14</string>
+    <string name="result_total_score">トータルスコア : %d</string>
+    <string name="btn_return">もどる</string>
+
+</resources>
